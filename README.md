@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Himansnhu90/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Himansnhu90/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Himansnhu90/leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Himansnhu90/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/Himansnhu90/leetcode/tree/master/1518-water-bottles) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Himansnhu90/leetcode/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/Himansnhu90/leetcode/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Himansnhu90/leetcode/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Himansnhu90/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
